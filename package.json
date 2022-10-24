@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord-api-types": "^0.37.14",
+    "hastebin": "^0.2.1",
+    "tslib": "^2.4.0",
+    "v9": "^2.0.5"
+  }
+}
